@@ -1,0 +1,29 @@
+{
+    "health": {
+        "title": "Tervisekontrollid",
+        "refresh.button": "Värskenda",
+        "stacktrace": "Stacktrace",
+        "details": {
+            "details": "Detailid",
+            "properties": "Omadused",
+            "name": "Nimetus",
+            "value": "Väärtus",
+            "error": "Viga"
+        },
+        "indicator": {
+            "binders": "Message broker",
+            "diskSpace": "Kettaruum",
+            "mail": "E-post",
+            "elasticsearch": "Elasticsearch",
+            "db": "Andmebaas"
+        },
+        "table": {
+            "service": "Teenuse nimi",
+            "status": "Seisund"
+        },
+        "status": {
+            "UP": "UP",
+            "DOWN": "DOWN"
+        }
+    }
+}
